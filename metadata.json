@@ -1,0 +1,6 @@
+{
+  "name": "NexusOps - Business Automation Cockpit",
+  "description": "Centralized business operations hub automating invoice tracking, quotation generation, email replies, and error-free communication with a personal AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
